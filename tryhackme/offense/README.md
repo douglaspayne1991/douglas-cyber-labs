@@ -2,16 +2,23 @@
 
 ### Offensive Security Intro
 **Date:** 2025-11-09  
-**Level:** Pre-Security (Intro)  
+**Level:** Pre-Security (Intro)
 
-**Quick Summary:**  
-Introduction to offensive mindset and basic reconnaissance concepts.  
+**Quick summary:**  
+Introduction to offensive mindset and basic reconnaissance concepts.
 
-**Commands / Tools Tried:**  
-`-u`, `-w`, `gobuster`
+**Commands / tools tried:**  
+- `-u`  
+- `-w`  
+- `gobuster`
 
-**What I Learned:**  
+**What I learned:**  
 How to think like an attacker, perform basic service enumeration, and document findings.
 
-**Next Practice:**  
-Run a Recon lab (`nmap` + `enum`) and write a 1-paragraph report on discovered hosts and services.
+**Next practice:**  
+Run a Recon lab (`nmap` + enumeration) and write a short report on discovered hosts and services.
+
+**Artifacts:**  
+Add screenshots or saved outputs to `tryhackme/offense/artifacts/` and embed them here, for example:
+```markdown
+![Nmap scan output](artifacts/nmap_scan.png)
