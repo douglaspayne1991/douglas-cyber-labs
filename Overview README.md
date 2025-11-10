@@ -1,20 +1,31 @@
 # douglas-cyber-labs
 Personal cybersecurity lab &amp; tryhackme  write-ups. Notes, commands, and progress toward ethical hacking mastery.
-## TryHackMe Progress (2025-11-09)
+## 🧠 TryHackMe Progress
 
-### Offense Security Intro
-- **Date:** 2025-11-09
-- **Level:** Pre-Security (Intro)
-- **Quick summary:** Intro to offensive mindset and basic recon concepts.
-- **Commands / tools tried:** '-u', '-w', 'gobuster'
-- **What I learned:** How to think like an attacker, basic service enumeration, and how to document findings.
-- **Next practice:** Try a Recon lab (nmap + enum) and write a 1-paragraph report.
+- [Offense Security Intro](tryhackme/offense-security-intro/README.md)
+- [Defense Security Intro](tryhackme/defense-security-intro/README.md)
 
-### Defense Security Intro
-- **Date:** 2025-11-09
-- **Level:** Pre-Security (Intro)
-- **Quick summary:** Intro to defensive concepts: logging, detection basics, and hardening mindset.
-- **Commands / tools tried:** SIEM
-- **What I learned:** Importance of logs and alerting, basics of hardening a host, and how defenders think vs attackers.
-- **Next practice:** Set up a small logging test (generate an event and find it in logs).
+*(More rooms coming soon...)*
+
+---
+
+## 🛠️ Tools I’m Learning
+- Linux (command line & permissions)
+- Networking basics (nmap, netcat)
+- Python scripting
+- Git & GitHub for documentation
+- Common security tools: Burp Suite, Wireshark, Metasploit
+
+---
+
+## 🎯 Current Goal
+Complete the **TryHackMe Pre-Security Path**  
+→ Build strong foundations in offense, defense, and networking.
+
+---
+
+## 📅 Next Steps
+- Add Linux Fundamentals writeup  
+- Practice basic recon labs  
+- Keep README updated weekly
 
